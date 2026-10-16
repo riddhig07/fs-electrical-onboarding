@@ -1,0 +1,36 @@
+{
+  "350ohm": {
+    "title": "FPC Suspension Strain Gauge \u2014 350 ohm (assignment)",
+    "label": "350R",
+    "target_r_ohm": 350.0,
+    "target_length_m": 72.91666666666669,
+    "estimated_r_ohm": 350.144,
+    "total_length_m": 72.94666666666667,
+    "n_legs": 603,
+    "active_w_mm": 120.4,
+    "active_h_mm": 120.4527045606095,
+    "board_w_mm": 157.1,
+    "board_h_mm": 136.1527045606095,
+    "trace_width_mm": 0.1,
+    "pitch_mm": 0.2,
+    "copper_thickness_mm": 0.035,
+    "file": "/Users/riddhi/fs-electrical-onboarding/lv/fpc-suspension-strain-gauge/fpc-suspension-strain-gauge-350ohm.kicad_pcb"
+  },
+  "35ohm_poc": {
+    "title": "FPC Strain Gauge POC \u2014 ~35 ohm",
+    "label": "35R-POC",
+    "target_r_ohm": 35.0,
+    "target_length_m": 7.291666666666667,
+    "estimated_r_ohm": 35.14399999999995,
+    "total_length_m": 7.3216666666666566,
+    "n_legs": 190,
+    "active_w_mm": 37.800000000000004,
+    "active_h_mm": 37.90843428914419,
+    "board_w_mm": 74.5,
+    "board_h_mm": 53.60843428914419,
+    "trace_width_mm": 0.1,
+    "pitch_mm": 0.2,
+    "copper_thickness_mm": 0.035,
+    "file": "/Users/riddhi/fs-electrical-onboarding/lv/fpc-suspension-strain-gauge/poc-strain-gauge-35ohm.kicad_pcb"
+  }
+}
